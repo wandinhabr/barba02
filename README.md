@@ -1,2 +1,2 @@
 # barba02
-site eucasional
+site euducasional
